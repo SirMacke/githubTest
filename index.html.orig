@@ -6,7 +6,10 @@
   <title>githubTest</title>
 </head>
 <body>
+<<<<<<< HEAD
   <h1>HAKUMA MATATA</h1>
+=======
   <p>Rice</p>
+>>>>>>> 202f30bcf088643eaccae6e12ecbd01ae07524be
 </body>
 </html>
